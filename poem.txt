@@ -5,4 +5,5 @@ orange
 yellow
 red
 blue
+greenish
 white
