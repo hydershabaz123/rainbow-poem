@@ -2,6 +2,7 @@ the rainbow
 purple
 green 
 orange
+yellow
 red
 blue
 white
