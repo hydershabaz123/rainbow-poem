@@ -7,3 +7,8 @@ red
 blue
 greenish
 white
+
+ADDED SOME EXTRA COLOURS
+SAFFRON
+WHITE
+GREEN
